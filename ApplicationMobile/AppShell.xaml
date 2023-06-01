@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="ApplicationMobile.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:ApplicationMobile"
+    xmlns:views="clr-namespace:ApplicationMobile.Views"
+    Shell.FlyoutBehavior="Disabled">
+
+    <TabBar>
+        <ShellContent
+            Title="Accueil"
+            ContentTemplate="{DataTemplate views:HomePage}"
+            Icon="icon_notes" />
+        <ShellContent
+            Title="Gen QRCode"
+            ContentTemplate="{DataTemplate views:QRCodePage}"
+            Icon="icon_about" />
+        <ShellContent
+            Title="Scan QRCode"
+            ContentTemplate="{DataTemplate views:QRCodeScannerPage}"
+            Icon="information0" />
+    </TabBar>
+
+</Shell>

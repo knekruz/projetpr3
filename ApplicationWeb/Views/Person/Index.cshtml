@@ -1,0 +1,30 @@
+﻿@model List<ApplicationWeb.Models.Person>
+
+<h1>All Persons</h1>
+
+<table id="personsTable" class="display">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <!-- add other properties as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var person in Model)
+        {
+            <tr>
+                <td>@person.Name</td>
+                <td>@person.Email</td>
+                <td>@person.Phone</td>
+                <!-- add other properties as needed -->
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/Person/AddPerson">Add Person</a>
+
+
+

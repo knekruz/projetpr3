@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net6.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnableSingleFileAnalyzer = false
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = ApplicationMobile
+build_property.ProjectDir = C:\Users\Kayu\OneDrive\Bureau\3iL\dot .NET\apps\projetpr3\ApplicationMobile\
+
+[C:/Users/Kayu/OneDrive/Bureau/3iL/dot .NET/apps/projetpr3/ApplicationMobile/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ApplicationMobile.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Kayu/OneDrive/Bureau/3iL/dot .NET/apps/projetpr3/ApplicationMobile/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ApplicationMobile.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Kayu/OneDrive/Bureau/3iL/dot .NET/apps/projetpr3/ApplicationMobile/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ApplicationMobile.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Kayu/OneDrive/Bureau/3iL/dot .NET/apps/projetpr3/ApplicationMobile/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ApplicationMobile.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Kayu/OneDrive/Bureau/3iL/dot .NET/apps/projetpr3/ApplicationMobile/Views/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ApplicationMobile.Views.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\HomePage.xaml
+
+[C:/Users/Kayu/OneDrive/Bureau/3iL/dot .NET/apps/projetpr3/ApplicationMobile/Views/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ApplicationMobile.Views.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginPage.xaml
+
+[C:/Users/Kayu/OneDrive/Bureau/3iL/dot .NET/apps/projetpr3/ApplicationMobile/Views/QRCodePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ApplicationMobile.Views.QRCodePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\QRCodePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\QRCodePage.xaml
+
+[C:/Users/Kayu/OneDrive/Bureau/3iL/dot .NET/apps/projetpr3/ApplicationMobile/Views/QRCodeScannerPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ApplicationMobile.Views.QRCodeScannerPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\QRCodeScannerPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\QRCodeScannerPage.xaml

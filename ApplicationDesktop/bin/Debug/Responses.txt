@@ -1,0 +1,10 @@
+{"Student":{"Id":7,"Name":"dsfsdf","LastName":"fdsdfsdfs","BirthDate":"2023-05-30T00:00:00","Email":"sdfsdfs","Phone":"fdsfsdfs","CycleId":2},"RandomPassword":"BsguUHew"}
+
+{"Student":{"Id":8,"Name":"sqfqs","LastName":"fsdqfqs","BirthDate":"2023-05-30T00:00:00","Email":"dqsqs","Phone":"fdsfsdf","CycleId":2},"RandomPassword":"BnlBgG3B"}
+
+{"Student":{"Id":9,"Name":"ffsdgdsgs","LastName":"gvcbcbxc","BirthDate":"2023-05-30T00:00:00","Email":"xbxcbx","Phone":"xbcxbcb","CycleId":2},"RandomPassword":"f2Swxrp0"}
+
+{"Student":{"Id":10,"Name":"kim","LastName":"lard","BirthDate":"2023-05-30T00:00:00","Email":"kim","Phone":"fsdsdfsdg","CycleId":1},"RandomPassword":"iVvJTbxW"}
+
+{"Student":{"Id":11,"Name":"lorenzo","LastName":"palazzolo","BirthDate":"2023-05-31T00:00:00","Email":"kawozz","Phone":"0685858585","CycleId":2},"RandomPassword":"G2EyXLbk"}
+

@@ -1,0 +1,20 @@
+﻿@model ApplicationWeb.Models.Person
+
+<h1>Add Person</h1>
+
+<form method="post">
+    <div>
+        <label>Name</label>
+        <input asp-for="Name" />
+    </div>
+    <div>
+        <label>Email</label>
+        <input asp-for="Email" />
+    </div>
+    <div>
+        <label>Phone</label>
+        <input asp-for="Phone" />
+    </div>
+    <!-- add other properties as needed -->
+    <input type="submit" value="Add Person" />
+</form>

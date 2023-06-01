@@ -1,0 +1,29 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:zxing="clr-namespace:ZXing.Net.Maui.Controls;assembly=ZXing.Net.MAUI"
+             x:Class="ApplicationMobile.Views.QRCodePage"
+             Title="QR Code">
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <zxing:BarcodeGeneratorView x:Name="QRCodeImage" 
+                                        Format="QrCode" 
+                                        Value="{Binding QRCodeValue}" 
+                                        ForegroundColor="Red" 
+                                        WidthRequest="200" 
+                                        HeightRequest="200" />
+
+            <Label x:Name="labelQRvalue" Text="hello" />
+            
+            <Button x:Name="GenerateQRCodeButton"
+                Command="{Binding GenerateQRCodeCommand}"
+                Text="Generate QR Code" 
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
